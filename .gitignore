@@ -1,0 +1,19 @@
+# Personal source documents (contain private contact details)
+Profile.pdf
+
+# Claude Code local settings
+.claude/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies / logs (if a local server or tooling is ever added)
+node_modules/
+*.log
